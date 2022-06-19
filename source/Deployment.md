@@ -79,6 +79,7 @@ Post POC Work -
 ## Deployment Guide
 Local Deployment
 - [Python](https://www.python.org/downloads/release/python-390/)
+- Download yolo5 directory from [here](https://drive.google.com/file/d/1jHBCgqwypxS-EEpMWH7wrdEOch87OYwS/view?usp=sharing) and paste it in ./source/models/ and unzip it to use.
 - First Run will install all the required custom models being used.
 - The Credentails and keys provided with this POC will be avilable till the challenge duration
 

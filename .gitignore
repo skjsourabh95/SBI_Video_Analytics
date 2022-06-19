@@ -1,5 +1,7 @@
 ./vid_ana
 .DS_Store
-.ipynb_checkpoints
+.ipynb_checkpoints/
 ./idea
 .__pycache__
+.gitattributes
+yolov5/
